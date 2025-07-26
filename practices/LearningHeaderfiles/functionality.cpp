@@ -12,3 +12,9 @@ int sub(int a, int b){
 void message(std::string mes){
     std::cout<<mes;
 }
+
+class car {
+
+
+    
+};
