@@ -44,8 +44,25 @@ void printDiskSpace(const char* drive) {
     }
 }
 
+void printCPUInfo() {
+    SYSTEM_INFO sysInfo;
+    GetSystemInfo(&sysInfo);
+
+    std::cout << "=== CPU Information ===\n";
+    std::cout << "Number of Logical Processors: " << sysInfo.dwNumberOfProcessors << "\n";
+
+    std::cout << "Processor Architecture: ";
+    switch (sysInfo.wProcessorArchitecture) {
+        case PROCESSOR_ARCHITECTURE_AMD64: std::cout << "x64 (AMD/Intel 64-bit)\n"; break;
+        case PROCESSOR_ARCHITECTURE_INTEL: std::cout << "x86 (32-bit)\n"; break;
+        case PROCESSOR_ARCHITECTURE_ARM: std::cout << "ARM\n"; break;
+        default: std::cout << "Unknown\n"; break;
+    }
+}
+
 int main (){
     printMemoryInfo();
     printDiskSpace("C:\\");
+    printCPUInfo();
     return 0;
 }
