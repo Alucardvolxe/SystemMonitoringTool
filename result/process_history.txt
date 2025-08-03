@@ -1,0 +1,2613 @@
+Timestamp: Sun Aug  3 10:12:27 2025
+
+Process: sihost.exe (PID: 8636)
+CPU History: 0, 
+Memory History (MB): 9.96094, 
+
+Process: svchost.exe (PID: 9272)
+CPU History: 0, 
+Memory History (MB): 0.484375, 
+
+Process: svchost.exe (PID: 9280)
+CPU History: 0, 
+Memory History (MB): 1.27734, 
+
+Process: svchost.exe (PID: 9292)
+CPU History: 0, 
+Memory History (MB): 1.36328, 
+
+Process: svchost.exe (PID: 9432)
+CPU History: 0, 
+Memory History (MB): 0.472656, 
+
+Process: svchost.exe (PID: 9548)
+CPU History: 0, 
+Memory History (MB): 5.23828, 
+
+Process: taskhostw.exe (PID: 9768)
+CPU History: 0, 
+Memory History (MB): 6.24609, 
+
+Process: Explorer.EXE (PID: 10520)
+CPU History: 0.34522, 
+Memory History (MB): 134.324, 
+
+Process: CrossDeviceResume.exe (PID: 10940)
+CPU History: 0, 
+Memory History (MB): 1.58984, 
+
+Process: FnHotkeyUtility.exe (PID: 11148)
+CPU History: 0, 
+Memory History (MB): 3.10547, 
+
+Process: svchost.exe (PID: 10032)
+CPU History: 0, 
+Memory History (MB): 7.25391, 
+
+Process: SearchHost.exe (PID: 11728)
+CPU History: 0, 
+Memory History (MB): 16.9453, 
+
+Process: StartMenuExperienceHost.exe (PID: 11752)
+CPU History: 0, 
+Memory History (MB): 10.6641, 
+
+Process: unsecapp.exe (PID: 12032)
+CPU History: 0, 
+Memory History (MB): 0.945312, 
+
+Process: Widgets.exe (PID: 12136)
+CPU History: 0, 
+Memory History (MB): 2.20312, 
+
+Process: RuntimeBroker.exe (PID: 12188)
+CPU History: 0.0383578, 
+Memory History (MB): 7.13672, 
+
+Process: svchost.exe (PID: 12200)
+CPU History: 0, 
+Memory History (MB): 1.27344, 
+
+Process: RuntimeBroker.exe (PID: 11384)
+CPU History: 0, 
+Memory History (MB): 4.26953, 
+
+Process: msedgewebview2.exe (PID: 12656)
+CPU History: 0, 
+Memory History (MB): 14.2656, 
+
+Process: msedgewebview2.exe (PID: 12828)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: WhatsApp.exe (PID: 13008)
+CPU History: 0.115073, 
+Memory History (MB): 155.918, 
+
+Process: msedgewebview2.exe (PID: 12544)
+CPU History: 0, 
+Memory History (MB): 6.36719, 
+
+Process: msedgewebview2.exe (PID: 9640)
+CPU History: 0, 
+Memory History (MB): 3.64453, 
+
+Process: msedgewebview2.exe (PID: 13268)
+CPU History: 0, 
+Memory History (MB): 1.68359, 
+
+Process: msedgewebview2.exe (PID: 13360)
+CPU History: 0, 
+Memory History (MB): 4.11328, 
+
+Process: RuntimeBroker.exe (PID: 13888)
+CPU History: 0, 
+Memory History (MB): 6.62109, 
+
+Process: svchost.exe (PID: 12612)
+CPU History: 0, 
+Memory History (MB): 4.58203, 
+
+Process: Radeonsoftware.exe (PID: 14276)
+CPU History: 0, 
+Memory History (MB): 12.3398, 
+
+Process: svchost.exe (PID: 13592)
+CPU History: 0, 
+Memory History (MB): 1.24219, 
+
+Process: DllHost.exe (PID: 3864)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: reflectui.exe (PID: 7284)
+CPU History: 0, 
+Memory History (MB): 1.53125, 
+
+Process: reflectmonitor.exe (PID: 7308)
+CPU History: 0.0767155, 
+Memory History (MB): 2.73047, 
+
+Process: cncmd.exe (PID: 14508)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: cmd.exe (PID: 14764)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: conhost.exe (PID: 7116)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: ShellExperienceHost.exe (PID: 11536)
+CPU History: 0, 
+Memory History (MB): 0.15625, 
+
+Process: RuntimeBroker.exe (PID: 11172)
+CPU History: 0, 
+Memory History (MB): 2.07812, 
+
+Process: SecurityHealthSystray.exe (PID: 15640)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: RtkAudUService64.exe (PID: 11220)
+CPU History: 0, 
+Memory History (MB): 1.92578, 
+
+Process: SystemSettings.exe (PID: 2672)
+CPU History: 0, 
+Memory History (MB): 15.3906, 
+
+Process: ApplicationFrameHost.exe (PID: 4676)
+CPU History: 0, 
+Memory History (MB): 0.367188, 
+
+Process: EpicGamesLauncher.exe (PID: 7796)
+CPU History: 0.115073, 
+Memory History (MB): 9.86328, 
+
+Process: fdm.exe (PID: 10952)
+CPU History: 0.0767155, 
+Memory History (MB): 14.7188, 
+
+Process: EpicWebHelper.exe (PID: 9620)
+CPU History: 0, 
+Memory History (MB): 2.91016, 
+
+Process: EpicWebHelper.exe (PID: 16380)
+CPU History: 0, 
+Memory History (MB): 1.25781, 
+
+Process: RiotClientServices.exe (PID: 14880)
+CPU History: 0.153431, 
+Memory History (MB): 1.44922, 
+
+Process: svchost.exe (PID: 10360)
+CPU History: 0, 
+Memory History (MB): 0.882812, 
+
+Process: RiotClientCrashHandler.exe (PID: 7872)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: jetbrains-toolbox.exe (PID: 1700)
+CPU History: 0.0767155, 
+Memory History (MB): 29.6562, 
+
+Process: WidgetService.exe (PID: 14420)
+CPU History: 0, 
+Memory History (MB): 1.1875, 
+
+Process: msedgewebview2.exe (PID: 13596)
+CPU History: 0, 
+Memory History (MB): 4.22656, 
+
+Process: msedgewebview2.exe (PID: 1592)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: Spotify.exe (PID: 5092)
+CPU History: 0, 
+Memory History (MB): 42.9023, 
+
+Process: msedgewebview2.exe (PID: 6932)
+CPU History: 0, 
+Memory History (MB): 2.11328, 
+
+Process: msedgewebview2.exe (PID: 6008)
+CPU History: 0, 
+Memory History (MB): 0.5, 
+
+Process: msedgewebview2.exe (PID: 9708)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: msedgewebview2.exe (PID: 8200)
+CPU History: 0, 
+Memory History (MB): 0.546875, 
+
+Process: Spotify.exe (PID: 7756)
+CPU History: 0, 
+Memory History (MB): 0.0898438, 
+
+Process: Spotify.exe (PID: 6168)
+CPU History: 0.498651, 
+Memory History (MB): 8.08203, 
+
+Process: Spotify.exe (PID: 14684)
+CPU History: 0, 
+Memory History (MB): 16.707, 
+
+Process: Spotify.exe (PID: 9096)
+CPU History: 0, 
+Memory History (MB): 2.97656, 
+
+Process: Spotify.exe (PID: 16584)
+CPU History: 1.53431, 
+Memory History (MB): 163.992, 
+
+Process: brave.exe (PID: 8156)
+CPU History: 0.0767155, 
+Memory History (MB): 87.2305, 
+
+Process: brave.exe (PID: 16768)
+CPU History: 0, 
+Memory History (MB): 0.417969, 
+
+Process: brave.exe (PID: 12396)
+CPU History: 0, 
+Memory History (MB): 49.4258, 
+
+Process: brave.exe (PID: 12628)
+CPU History: 0, 
+Memory History (MB): 17.8359, 
+
+Process: brave.exe (PID: 12104)
+CPU History: 0, 
+Memory History (MB): 3.54688, 
+
+Process: brave.exe (PID: 12600)
+CPU History: 0, 
+Memory History (MB): 5.26562, 
+
+Process: brave.exe (PID: 12592)
+CPU History: 0, 
+Memory History (MB): 12.5078, 
+
+Process: cmd.exe (PID: 17140)
+CPU History: 0, 
+Memory History (MB): 0.0273438, 
+
+Process: conhost.exe (PID: 12432)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: wenativehost.exe (PID: 5284)
+CPU History: 0.0767155, 
+Memory History (MB): 1.71094, 
+
+Process: Spotify.exe (PID: 10976)
+CPU History: 0, 
+Memory History (MB): 3.375, 
+
+Process: slack.exe (PID: 18020)
+CPU History: 0.0767155, 
+Memory History (MB): 20.8398, 
+
+Process: chrome.exe (PID: 18100)
+CPU History: 0, 
+Memory History (MB): 26.6484, 
+
+Process: chrome.exe (PID: 18132)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: chrome.exe (PID: 18312)
+CPU History: 0, 
+Memory History (MB): 3.82812, 
+
+Process: chrome.exe (PID: 18320)
+CPU History: 0, 
+Memory History (MB): 10.1133, 
+
+Process: chrome.exe (PID: 8284)
+CPU History: 0, 
+Memory History (MB): 2.54297, 
+
+Process: chrome.exe (PID: 17572)
+CPU History: 0, 
+Memory History (MB): 4.35547, 
+
+Process: slack.exe (PID: 17620)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: chrome.exe (PID: 17536)
+CPU History: 0, 
+Memory History (MB): 1.97656, 
+
+Process: chrome.exe (PID: 17960)
+CPU History: 0, 
+Memory History (MB): 1.76953, 
+
+Process: slack.exe (PID: 18112)
+CPU History: 0, 
+Memory History (MB): 3.51953, 
+
+Process: slack.exe (PID: 14080)
+CPU History: 0, 
+Memory History (MB): 5.64453, 
+
+Process: cmd.exe (PID: 18508)
+CPU History: 0, 
+Memory History (MB): 0.0273438, 
+
+Process: conhost.exe (PID: 18584)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: wenativehost.exe (PID: 18668)
+CPU History: 0, 
+Memory History (MB): 0.433594, 
+
+Process: slack.exe (PID: 18740)
+CPU History: 0, 
+Memory History (MB): 45.8281, 
+
+Process: slack.exe (PID: 18884)
+CPU History: 0, 
+Memory History (MB): 1.49219, 
+
+Process: slack.exe (PID: 12000)
+CPU History: 0, 
+Memory History (MB): 1.86719, 
+
+Process: XboxPcTray.exe (PID: 19208)
+CPU History: 0.0383578, 
+Memory History (MB): 3.92969, 
+
+Process: XboxPcAppFT.exe (PID: 17208)
+CPU History: 0, 
+Memory History (MB): 4.72656, 
+
+Process: PAD.Console.Host.exe (PID: 1848)
+CPU History: 0.34522, 
+Memory History (MB): 19.8984, 
+
+Process: PAD.AutomationServer.exe (PID: 18044)
+CPU History: 0.115073, 
+Memory History (MB): 16.4102, 
+
+Process: CrossDeviceService.exe (PID: 17600)
+CPU History: 0, 
+Memory History (MB): 3.74609, 
+
+Process: RuntimeBroker.exe (PID: 14724)
+CPU History: 0, 
+Memory History (MB): 1.44531, 
+
+Process: PAD.BridgeToUIAutomation2.exe (PID: 16920)
+CPU History: 0.0383578, 
+Memory History (MB): 5.82422, 
+
+Process: conhost.exe (PID: 6216)
+CPU History: 0, 
+Memory History (MB): 0.191406, 
+
+Process: RuntimeBroker.exe (PID: 6036)
+CPU History: 0, 
+Memory History (MB): 1.47266, 
+
+Process: ChatGPT.exe (PID: 11496)
+CPU History: 0.306862, 
+Memory History (MB): 20.75, 
+
+Process: ChatGPT.exe (PID: 18496)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: ChatGPT.exe (PID: 2676)
+CPU History: 0, 
+Memory History (MB): 6.10156, 
+
+Process: ChatGPT.exe (PID: 19172)
+CPU History: 0.0767155, 
+Memory History (MB): 6.14844, 
+
+Process: HuionTablet.exe (PID: 19820)
+CPU History: 0.230147, 
+Memory History (MB): 1.1875, 
+
+Process: DS4Windows.exe (PID: 19856)
+CPU History: 0, 
+Memory History (MB): 8.32031, 
+
+Process: HuionTabletCore.exe (PID: 20004)
+CPU History: 0.230147, 
+Memory History (MB): 28.8672, 
+
+Process: ChatGPT.exe (PID: 20156)
+CPU History: 0.0767155, 
+Memory History (MB): 15.5234, 
+
+Process: HuionServer.exe (PID: 20304)
+CPU History: 0.0383578, 
+Memory History (MB): 2.04297, 
+
+Process: WD Discovery.exe (PID: 20724)
+CPU History: 0.0383578, 
+Memory History (MB): 8.02344, 
+
+Process: WD Discovery.exe (PID: 21056)
+CPU History: 0, 
+Memory History (MB): 1.87109, 
+
+Process: WD Discovery.exe (PID: 20588)
+CPU History: 0, 
+Memory History (MB): 0.0234375, 
+
+Process: WDDiscoveryMonitor.exe (PID: 12040)
+CPU History: 0, 
+Memory History (MB): 0.75, 
+
+Process: WD Discovery.exe (PID: 21064)
+CPU History: 0.0383578, 
+Memory History (MB): 1.29688, 
+
+Process: WD Discovery.exe (PID: 19900)
+CPU History: 0, 
+Memory History (MB): 1.27734, 
+
+Process: Everything.exe (PID: 2640)
+CPU History: 0, 
+Memory History (MB): 28.7461, 
+
+Process: LenovoVantage-(GenericMessagingAddin).exe (PID: 19652)
+CPU History: 0, 
+Memory History (MB): 0.996094, 
+
+Process: AMDRSSrcExt.exe (PID: 17708)
+CPU History: 0, 
+Memory History (MB): 2.57031, 
+
+Process: backgroundTaskHost.exe (PID: 9100)
+CPU History: 0, 
+Memory History (MB): 2.11719, 
+
+Process: RuntimeBroker.exe (PID: 15400)
+CPU History: 0, 
+Memory History (MB): 0.714844, 
+
+Process: ShellHost.exe (PID: 1872)
+CPU History: 0, 
+Memory History (MB): 4.82031, 
+
+Process: backgroundTaskHost.exe (PID: 9328)
+CPU History: 0, 
+Memory History (MB): 4.32812, 
+
+Process: RuntimeBroker.exe (PID: 18148)
+CPU History: 0, 
+Memory History (MB): 0.507812, 
+
+Process: explorer.exe (PID: 4000)
+CPU History: 0, 
+Memory History (MB): 6.25, 
+
+Process: brave.exe (PID: 12008)
+CPU History: 0, 
+Memory History (MB): 9.01953, 
+
+Process: IDMan.exe (PID: 1892)
+CPU History: 0.0383578, 
+Memory History (MB): 1.02734, 
+
+Process: brave.exe (PID: 14488)
+CPU History: 0, 
+Memory History (MB): 2.09375, 
+
+Process: brave.exe (PID: 19720)
+CPU History: 0, 
+Memory History (MB): 2.07422, 
+
+Process: brave.exe (PID: 17752)
+CPU History: 0.115073, 
+Memory History (MB): 293.09, 
+
+Process: clion64.exe (PID: 11048)
+CPU History: 0.383578, 
+Memory History (MB): 256.84, 
+
+Process: Rider.Backend.exe (PID: 22920)
+CPU History: 0.421935, 
+Memory History (MB): 30.8164, 
+
+Process: conhost.exe (PID: 5100)
+CPU History: 0, 
+Memory History (MB): 0.1875, 
+
+Process: fsnotifier.exe (PID: 22768)
+CPU History: 0, 
+Memory History (MB): 0.253906, 
+
+Process: conhost.exe (PID: 19360)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: cef_server.exe (PID: 20860)
+CPU History: 0, 
+Memory History (MB): 4.38672, 
+
+Process: conhost.exe (PID: 17184)
+CPU History: 0, 
+Memory History (MB): 0.0664062, 
+
+Process: cef_server.exe (PID: 15244)
+CPU History: 0, 
+Memory History (MB): 4.03516, 
+
+Process: cef_server.exe (PID: 15344)
+CPU History: 0, 
+Memory History (MB): 1.35156, 
+
+Process: cef_server.exe (PID: 7060)
+CPU History: 0, 
+Memory History (MB): 2.05469, 
+
+Process: cef_server.exe (PID: 9752)
+CPU History: 0, 
+Memory History (MB): 1.36328, 
+
+Process: wsl.exe (PID: 14580)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: conhost.exe (PID: 8676)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: wsl.exe (PID: 3852)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: DllHost.exe (PID: 23548)
+CPU History: 0, 
+Memory History (MB): 0.695312, 
+
+Process: DllHost.exe (PID: 21936)
+CPU History: 0, 
+Memory History (MB): 0.125, 
+
+Process: wslrelay.exe (PID: 23648)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: wslhost.exe (PID: 24084)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: conhost.exe (PID: 24112)
+CPU History: 0, 
+Memory History (MB): 0.0664062, 
+
+Process: wslhost.exe (PID: 24240)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: conhost.exe (PID: 24280)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: msrdc.exe (PID: 24416)
+CPU History: 0.0383578, 
+Memory History (MB): 5.24219, 
+
+Process: wslhost.exe (PID: 22256)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: clangd.exe (PID: 24356)
+CPU History: 0, 
+Memory History (MB): 2.09375, 
+
+Process: conhost.exe (PID: 24348)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: conhost.exe (PID: 24452)
+CPU History: 0, 
+Memory History (MB): 0.0507812, 
+
+Process: msedge.exe (PID: 24068)
+CPU History: 0.0383578, 
+Memory History (MB): 30.3203, 
+
+Process: msedge.exe (PID: 24124)
+CPU History: 0, 
+Memory History (MB): 1.26172, 
+
+Process: msedge.exe (PID: 22848)
+CPU History: 0, 
+Memory History (MB): 5.35547, 
+
+Process: msedge.exe (PID: 24048)
+CPU History: 0, 
+Memory History (MB): 4.35547, 
+
+Process: msedge.exe (PID: 14820)
+CPU History: 0, 
+Memory History (MB): 1.8125, 
+
+Process: msedge.exe (PID: 22108)
+CPU History: 0.0383578, 
+Memory History (MB): 7.68359, 
+
+Process: msedge.exe (PID: 9136)
+CPU History: 0, 
+Memory History (MB): 7.41016, 
+
+Process: msedge.exe (PID: 19028)
+CPU History: 0, 
+Memory History (MB): 1.62891, 
+
+Process: msedge.exe (PID: 328)
+CPU History: 0, 
+Memory History (MB): 1.46484, 
+
+Process: cmd.exe (PID: 16480)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: conhost.exe (PID: 20516)
+CPU History: 0, 
+Memory History (MB): 0.164062, 
+
+Process: wenativehost.exe (PID: 23964)
+CPU History: 0, 
+Memory History (MB): 1.41797, 
+
+Process: msedge.exe (PID: 2064)
+CPU History: 0, 
+Memory History (MB): 1.66406, 
+
+Process: msedge.exe (PID: 22804)
+CPU History: 0, 
+Memory History (MB): 1.82812, 
+
+Process: cmd.exe (PID: 7400)
+CPU History: 0, 
+Memory History (MB): 0.144531, 
+
+Process: conhost.exe (PID: 23460)
+CPU History: 0, 
+Memory History (MB): 0.355469, 
+
+Process: msedge.exe (PID: 20684)
+CPU History: 0, 
+Memory History (MB): 3.39844, 
+
+Process: PAD.BrowserNativeMessageHost.exe (PID: 24628)
+CPU History: 0.115073, 
+Memory History (MB): 21.0156, 
+
+Process: msedge.exe (PID: 22184)
+CPU History: 0, 
+Memory History (MB): 1.39062, 
+
+Process: msedge.exe (PID: 23040)
+CPU History: 0, 
+Memory History (MB): 1.74219, 
+
+Process: msedge.exe (PID: 23408)
+CPU History: 0, 
+Memory History (MB): 2.19531, 
+
+Process: msedge.exe (PID: 25088)
+CPU History: 0, 
+Memory History (MB): 1.69922, 
+
+Process: msedge.exe (PID: 4760)
+CPU History: 0, 
+Memory History (MB): 2.73828, 
+
+Process: msedge.exe (PID: 14572)
+CPU History: 0, 
+Memory History (MB): 2.5625, 
+
+Process: RuntimeBroker.exe (PID: 25356)
+CPU History: 0.0383578, 
+Memory History (MB): 1.84375, 
+
+Process: Code.exe (PID: 24624)
+CPU History: 0.0767155, 
+Memory History (MB): 69.8008, 
+
+Process: Code.exe (PID: 14500)
+CPU History: 0, 
+Memory History (MB): 2.82422, 
+
+Process: Code.exe (PID: 24284)
+CPU History: 0, 
+Memory History (MB): 39.4375, 
+
+Process: Code.exe (PID: 23228)
+CPU History: 0, 
+Memory History (MB): 13.0664, 
+
+Process: Code.exe (PID: 19620)
+CPU History: 0, 
+Memory History (MB): 40.3086, 
+
+Process: Code.exe (PID: 4192)
+CPU History: 0.460293, 
+Memory History (MB): 46.3438, 
+
+Process: Code.exe (PID: 25576)
+CPU History: 0, 
+Memory History (MB): 20.9961, 
+
+Process: Code.exe (PID: 8836)
+CPU History: 0, 
+Memory History (MB): 8.34766, 
+
+Process: Code.exe (PID: 2916)
+CPU History: 0, 
+Memory History (MB): 203.598, 
+
+Process: cpptools.exe (PID: 3448)
+CPU History: 0, 
+Memory History (MB): 3.29297, 
+
+Process: conhost.exe (PID: 11032)
+CPU History: 0, 
+Memory History (MB): 0.871094, 
+
+Process: <unknown> (PID: 7588)
+CPU History: 0, 
+Memory History (MB): 0.0078125, 
+
+Process: CodeSetup-stable-488a1f239235055e34e673291fb8d8c810886f81.exe (PID: 20812)
+CPU History: 0, 
+Memory History (MB): 0.0234375, 
+
+Process: CodeSetup-stable-488a1f239235055e34e673291fb8d8c810886f81.tmp (PID: 11944)
+CPU History: 0, 
+Memory History (MB): 0.765625, 
+
+Process: cpptools-srv.exe (PID: 24488)
+CPU History: 0, 
+Memory History (MB): 0.167969, 
+
+Process: conhost.exe (PID: 24804)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: Code.exe (PID: 24988)
+CPU History: 0, 
+Memory History (MB): 11.1055, 
+
+Process: Code.exe (PID: 23524)
+CPU History: 0.575366, 
+Memory History (MB): 47.0898, 
+
+Process: cpptools.exe (PID: 9128)
+CPU History: 0, 
+Memory History (MB): 9.33594, 
+
+Process: conhost.exe (PID: 13648)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: <unknown> (PID: 19320)
+CPU History: 0, 
+Memory History (MB): 0.03125, 
+
+Process: Notepad.exe (PID: 8172)
+CPU History: 0, 
+Memory History (MB): 13.3984, 
+
+Process: cpptools-srv.exe (PID: 25500)
+CPU History: 0, 
+Memory History (MB): 53.7227, 
+
+Process: conhost.exe (PID: 23812)
+CPU History: 0, 
+Memory History (MB): 0.695312, 
+
+Process: Code.exe (PID: 26052)
+CPU History: 0, 
+Memory History (MB): 28.5586, 
+
+Process: Code.exe (PID: 26244)
+CPU History: 0, 
+Memory History (MB): 7.82031, 
+
+Process: conhost.exe (PID: 26568)
+CPU History: 0, 
+Memory History (MB): 2.19531, 
+
+Process: powershell.exe (PID: 17792)
+CPU History: 0.0383578, 
+Memory History (MB): 27.2578, 
+
+Process: chrome.exe (PID: 25936)
+CPU History: 0, 
+Memory History (MB): 8.24609, 
+
+Process: brave.exe (PID: 7524)
+CPU History: 0, 
+Memory History (MB): 9.42969, 
+
+Process: brave.exe (PID: 23976)
+CPU History: 0, 
+Memory History (MB): 4.80469, 
+
+Process: brave.exe (PID: 22016)
+CPU History: 0, 
+Memory History (MB): 57.4766, 
+
+Process: smartscreen.exe (PID: 22832)
+CPU History: 0, 
+Memory History (MB): 12.5508, 
+
+Process: sysl.exe (PID: 23780)
+CPU History: 1.18909, 
+Memory History (MB): 21.0508, 
+
+Process: conhost.exe (PID: 15152)
+CPU History: 0, 
+Memory History (MB): 9.78125, 
+
+Process: OpenConsole.exe (PID: 6076)
+CPU History: 0, 
+Memory History (MB): 16.9883, 
+
+Process: WindowsTerminal.exe (PID: 25640)
+CPU History: 0.115073, 
+Memory History (MB): 98.0859, 
+
+------------------------
+Timestamp: Sun Aug  3 10:12:32 2025
+
+Process: sihost.exe (PID: 8636)
+CPU History: 0, 
+Memory History (MB): 9.96484, 
+
+Process: svchost.exe (PID: 9272)
+CPU History: 0, 
+Memory History (MB): 0.484375, 
+
+Process: svchost.exe (PID: 9280)
+CPU History: 0, 
+Memory History (MB): 1.27734, 
+
+Process: svchost.exe (PID: 9292)
+CPU History: 0, 
+Memory History (MB): 1.36328, 
+
+Process: svchost.exe (PID: 9432)
+CPU History: 0, 
+Memory History (MB): 0.472656, 
+
+Process: svchost.exe (PID: 9548)
+CPU History: 0, 
+Memory History (MB): 5.23828, 
+
+Process: taskhostw.exe (PID: 9768)
+CPU History: 0, 
+Memory History (MB): 6.24219, 
+
+Process: Explorer.EXE (PID: 10520)
+CPU History: 0.234263, 
+Memory History (MB): 135.938, 
+
+Process: CrossDeviceResume.exe (PID: 10940)
+CPU History: 0, 
+Memory History (MB): 1.58984, 
+
+Process: FnHotkeyUtility.exe (PID: 11148)
+CPU History: 0, 
+Memory History (MB): 3.11719, 
+
+Process: svchost.exe (PID: 10032)
+CPU History: 0, 
+Memory History (MB): 7.25391, 
+
+Process: SearchHost.exe (PID: 11728)
+CPU History: 0.0390439, 
+Memory History (MB): 17.0195, 
+
+Process: StartMenuExperienceHost.exe (PID: 11752)
+CPU History: 0, 
+Memory History (MB): 10.6641, 
+
+Process: unsecapp.exe (PID: 12032)
+CPU History: 0, 
+Memory History (MB): 0.945312, 
+
+Process: Widgets.exe (PID: 12136)
+CPU History: 0, 
+Memory History (MB): 2.20312, 
+
+Process: RuntimeBroker.exe (PID: 12188)
+CPU History: 0, 
+Memory History (MB): 7.21484, 
+
+Process: svchost.exe (PID: 12200)
+CPU History: 0, 
+Memory History (MB): 1.27344, 
+
+Process: RuntimeBroker.exe (PID: 11384)
+CPU History: 0, 
+Memory History (MB): 4.26953, 
+
+Process: msedgewebview2.exe (PID: 12656)
+CPU History: 0, 
+Memory History (MB): 14.2695, 
+
+Process: msedgewebview2.exe (PID: 12828)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: WhatsApp.exe (PID: 13008)
+CPU History: 0, 
+Memory History (MB): 155.938, 
+
+Process: msedgewebview2.exe (PID: 12544)
+CPU History: 0, 
+Memory History (MB): 6.36719, 
+
+Process: msedgewebview2.exe (PID: 9640)
+CPU History: 0, 
+Memory History (MB): 3.64453, 
+
+Process: msedgewebview2.exe (PID: 13268)
+CPU History: 0, 
+Memory History (MB): 1.68359, 
+
+Process: msedgewebview2.exe (PID: 13360)
+CPU History: 0, 
+Memory History (MB): 4.11328, 
+
+Process: RuntimeBroker.exe (PID: 13888)
+CPU History: 0.0390439, 
+Memory History (MB): 6.66406, 
+
+Process: svchost.exe (PID: 12612)
+CPU History: 0, 
+Memory History (MB): 4.58203, 
+
+Process: Radeonsoftware.exe (PID: 14276)
+CPU History: 0.0390439, 
+Memory History (MB): 12.332, 
+
+Process: svchost.exe (PID: 13592)
+CPU History: 0, 
+Memory History (MB): 1.24219, 
+
+Process: DllHost.exe (PID: 3864)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: reflectui.exe (PID: 7284)
+CPU History: 0, 
+Memory History (MB): 1.53125, 
+
+Process: reflectmonitor.exe (PID: 7308)
+CPU History: 0, 
+Memory History (MB): 2.73047, 
+
+Process: cncmd.exe (PID: 14508)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: cmd.exe (PID: 14764)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: conhost.exe (PID: 7116)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: ShellExperienceHost.exe (PID: 11536)
+CPU History: 0, 
+Memory History (MB): 0.15625, 
+
+Process: RuntimeBroker.exe (PID: 11172)
+CPU History: 0, 
+Memory History (MB): 2.07812, 
+
+Process: SecurityHealthSystray.exe (PID: 15640)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: RtkAudUService64.exe (PID: 11220)
+CPU History: 0, 
+Memory History (MB): 1.92578, 
+
+Process: SystemSettings.exe (PID: 2672)
+CPU History: 0, 
+Memory History (MB): 15.3906, 
+
+Process: ApplicationFrameHost.exe (PID: 4676)
+CPU History: 0, 
+Memory History (MB): 2.25, 
+
+Process: EpicGamesLauncher.exe (PID: 7796)
+CPU History: 0.0780877, 
+Memory History (MB): 9.85547, 
+
+Process: fdm.exe (PID: 10952)
+CPU History: 0.195219, 
+Memory History (MB): 14.7227, 
+
+Process: EpicWebHelper.exe (PID: 9620)
+CPU History: 0, 
+Memory History (MB): 2.91016, 
+
+Process: EpicWebHelper.exe (PID: 16380)
+CPU History: 0, 
+Memory History (MB): 1.25781, 
+
+Process: RiotClientServices.exe (PID: 14880)
+CPU History: 0.0390439, 
+Memory History (MB): 1.44922, 
+
+Process: svchost.exe (PID: 10360)
+CPU History: 0, 
+Memory History (MB): 0.882812, 
+
+Process: RiotClientCrashHandler.exe (PID: 7872)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: jetbrains-toolbox.exe (PID: 1700)
+CPU History: 0.0390439, 
+Memory History (MB): 29.8789, 
+
+Process: WidgetService.exe (PID: 14420)
+CPU History: 0, 
+Memory History (MB): 1.1875, 
+
+Process: msedgewebview2.exe (PID: 13596)
+CPU History: 0, 
+Memory History (MB): 4.22656, 
+
+Process: msedgewebview2.exe (PID: 1592)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: Spotify.exe (PID: 5092)
+CPU History: 0.117132, 
+Memory History (MB): 44.207, 
+
+Process: msedgewebview2.exe (PID: 6932)
+CPU History: 0, 
+Memory History (MB): 2.11328, 
+
+Process: msedgewebview2.exe (PID: 6008)
+CPU History: 0, 
+Memory History (MB): 0.5, 
+
+Process: msedgewebview2.exe (PID: 9708)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: msedgewebview2.exe (PID: 8200)
+CPU History: 0, 
+Memory History (MB): 0.546875, 
+
+Process: Spotify.exe (PID: 7756)
+CPU History: 0, 
+Memory History (MB): 0.0898438, 
+
+Process: Spotify.exe (PID: 6168)
+CPU History: 0.351395, 
+Memory History (MB): 8.08594, 
+
+Process: Spotify.exe (PID: 14684)
+CPU History: 0, 
+Memory History (MB): 16.9922, 
+
+Process: Spotify.exe (PID: 9096)
+CPU History: 0, 
+Memory History (MB): 2.97656, 
+
+Process: Spotify.exe (PID: 16584)
+CPU History: 1.17132, 
+Memory History (MB): 163.992, 
+
+Process: brave.exe (PID: 8156)
+CPU History: 0.0780877, 
+Memory History (MB): 86.9727, 
+
+Process: brave.exe (PID: 16768)
+CPU History: 0, 
+Memory History (MB): 0.417969, 
+
+Process: brave.exe (PID: 12396)
+CPU History: 0, 
+Memory History (MB): 48.1484, 
+
+Process: brave.exe (PID: 12628)
+CPU History: 0, 
+Memory History (MB): 17.8359, 
+
+Process: brave.exe (PID: 12104)
+CPU History: 0, 
+Memory History (MB): 3.57031, 
+
+Process: brave.exe (PID: 12600)
+CPU History: 0, 
+Memory History (MB): 5.26562, 
+
+Process: brave.exe (PID: 12592)
+CPU History: 0, 
+Memory History (MB): 12.5625, 
+
+Process: cmd.exe (PID: 17140)
+CPU History: 0, 
+Memory History (MB): 0.0273438, 
+
+Process: conhost.exe (PID: 12432)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: wenativehost.exe (PID: 5284)
+CPU History: 0.0390439, 
+Memory History (MB): 1.71094, 
+
+Process: Spotify.exe (PID: 10976)
+CPU History: 0, 
+Memory History (MB): 3.375, 
+
+Process: slack.exe (PID: 18020)
+CPU History: 0.0390439, 
+Memory History (MB): 20.8828, 
+
+Process: chrome.exe (PID: 18100)
+CPU History: 0.0390439, 
+Memory History (MB): 26.6562, 
+
+Process: chrome.exe (PID: 18132)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: chrome.exe (PID: 18312)
+CPU History: 0, 
+Memory History (MB): 3.82812, 
+
+Process: chrome.exe (PID: 18320)
+CPU History: 0, 
+Memory History (MB): 10.2578, 
+
+Process: chrome.exe (PID: 8284)
+CPU History: 0, 
+Memory History (MB): 2.54297, 
+
+Process: chrome.exe (PID: 17572)
+CPU History: 0, 
+Memory History (MB): 4.35938, 
+
+Process: slack.exe (PID: 17620)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: chrome.exe (PID: 17536)
+CPU History: 0, 
+Memory History (MB): 1.97656, 
+
+Process: chrome.exe (PID: 17960)
+CPU History: 0, 
+Memory History (MB): 1.76953, 
+
+Process: slack.exe (PID: 18112)
+CPU History: 0, 
+Memory History (MB): 3.51953, 
+
+Process: slack.exe (PID: 14080)
+CPU History: 0, 
+Memory History (MB): 5.64062, 
+
+Process: cmd.exe (PID: 18508)
+CPU History: 0, 
+Memory History (MB): 0.0273438, 
+
+Process: conhost.exe (PID: 18584)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: wenativehost.exe (PID: 18668)
+CPU History: 0, 
+Memory History (MB): 0.433594, 
+
+Process: slack.exe (PID: 18740)
+CPU History: 0, 
+Memory History (MB): 45.8398, 
+
+Process: slack.exe (PID: 18884)
+CPU History: 0, 
+Memory History (MB): 1.49219, 
+
+Process: slack.exe (PID: 12000)
+CPU History: 0, 
+Memory History (MB): 1.86719, 
+
+Process: XboxPcTray.exe (PID: 19208)
+CPU History: 0, 
+Memory History (MB): 3.92969, 
+
+Process: XboxPcAppFT.exe (PID: 17208)
+CPU History: 0.0390439, 
+Memory History (MB): 9.14453, 
+
+Process: PAD.Console.Host.exe (PID: 1848)
+CPU History: 0.351395, 
+Memory History (MB): 19.9375, 
+
+Process: PAD.AutomationServer.exe (PID: 18044)
+CPU History: 0.156175, 
+Memory History (MB): 16.418, 
+
+Process: CrossDeviceService.exe (PID: 17600)
+CPU History: 0, 
+Memory History (MB): 3.74609, 
+
+Process: RuntimeBroker.exe (PID: 14724)
+CPU History: 0, 
+Memory History (MB): 1.44531, 
+
+Process: PAD.BridgeToUIAutomation2.exe (PID: 16920)
+CPU History: 0, 
+Memory History (MB): 5.83594, 
+
+Process: conhost.exe (PID: 6216)
+CPU History: 0, 
+Memory History (MB): 0.191406, 
+
+Process: RuntimeBroker.exe (PID: 6036)
+CPU History: 0, 
+Memory History (MB): 1.47266, 
+
+Process: ChatGPT.exe (PID: 11496)
+CPU History: 0.0780877, 
+Memory History (MB): 22.3047, 
+
+Process: ChatGPT.exe (PID: 18496)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: ChatGPT.exe (PID: 2676)
+CPU History: 0, 
+Memory History (MB): 6.23438, 
+
+Process: ChatGPT.exe (PID: 19172)
+CPU History: 0, 
+Memory History (MB): 6.14844, 
+
+Process: HuionTablet.exe (PID: 19820)
+CPU History: 0.156175, 
+Memory History (MB): 3.12891, 
+
+Process: DS4Windows.exe (PID: 19856)
+CPU History: 0, 
+Memory History (MB): 8.41016, 
+
+Process: HuionTabletCore.exe (PID: 20004)
+CPU History: 0.0780877, 
+Memory History (MB): 28.8672, 
+
+Process: ChatGPT.exe (PID: 20156)
+CPU History: 0, 
+Memory History (MB): 15.5391, 
+
+Process: HuionServer.exe (PID: 20304)
+CPU History: 0, 
+Memory History (MB): 2.04297, 
+
+Process: WD Discovery.exe (PID: 20724)
+CPU History: 0.0780877, 
+Memory History (MB): 8.03906, 
+
+Process: WD Discovery.exe (PID: 21056)
+CPU History: 0, 
+Memory History (MB): 1.87109, 
+
+Process: WD Discovery.exe (PID: 20588)
+CPU History: 0, 
+Memory History (MB): 0.0234375, 
+
+Process: WDDiscoveryMonitor.exe (PID: 12040)
+CPU History: 0, 
+Memory History (MB): 0.75, 
+
+Process: WD Discovery.exe (PID: 21064)
+CPU History: 0, 
+Memory History (MB): 1.29688, 
+
+Process: WD Discovery.exe (PID: 19900)
+CPU History: 0, 
+Memory History (MB): 1.27734, 
+
+Process: Everything.exe (PID: 2640)
+CPU History: 0.0390439, 
+Memory History (MB): 29.4141, 
+
+Process: LenovoVantage-(GenericMessagingAddin).exe (PID: 19652)
+CPU History: 0, 
+Memory History (MB): 0.996094, 
+
+Process: AMDRSSrcExt.exe (PID: 17708)
+CPU History: 0, 
+Memory History (MB): 2.57031, 
+
+Process: backgroundTaskHost.exe (PID: 9100)
+CPU History: 0, 
+Memory History (MB): 2.11719, 
+
+Process: RuntimeBroker.exe (PID: 15400)
+CPU History: 0, 
+Memory History (MB): 0.714844, 
+
+Process: ShellHost.exe (PID: 1872)
+CPU History: 0, 
+Memory History (MB): 4.82031, 
+
+Process: backgroundTaskHost.exe (PID: 9328)
+CPU History: 0, 
+Memory History (MB): 4.32812, 
+
+Process: RuntimeBroker.exe (PID: 18148)
+CPU History: 0, 
+Memory History (MB): 0.507812, 
+
+Process: explorer.exe (PID: 4000)
+CPU History: 0, 
+Memory History (MB): 6.80469, 
+
+Process: brave.exe (PID: 12008)
+CPU History: 0, 
+Memory History (MB): 9.01953, 
+
+Process: IDMan.exe (PID: 1892)
+CPU History: 0.0390439, 
+Memory History (MB): 1.02734, 
+
+Process: brave.exe (PID: 14488)
+CPU History: 0, 
+Memory History (MB): 2.08984, 
+
+Process: brave.exe (PID: 19720)
+CPU History: 0, 
+Memory History (MB): 2.07422, 
+
+Process: brave.exe (PID: 17752)
+CPU History: 0, 
+Memory History (MB): 293.109, 
+
+Process: clion64.exe (PID: 11048)
+CPU History: 0.156175, 
+Memory History (MB): 260.555, 
+
+Process: Rider.Backend.exe (PID: 22920)
+CPU History: 0.156175, 
+Memory History (MB): 31.4102, 
+
+Process: conhost.exe (PID: 5100)
+CPU History: 0, 
+Memory History (MB): 0.1875, 
+
+Process: fsnotifier.exe (PID: 22768)
+CPU History: 0, 
+Memory History (MB): 0.253906, 
+
+Process: conhost.exe (PID: 19360)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: cef_server.exe (PID: 20860)
+CPU History: 0, 
+Memory History (MB): 4.38672, 
+
+Process: conhost.exe (PID: 17184)
+CPU History: 0, 
+Memory History (MB): 0.0664062, 
+
+Process: cef_server.exe (PID: 15244)
+CPU History: 0, 
+Memory History (MB): 4.03516, 
+
+Process: cef_server.exe (PID: 15344)
+CPU History: 0, 
+Memory History (MB): 1.35156, 
+
+Process: cef_server.exe (PID: 7060)
+CPU History: 0, 
+Memory History (MB): 2.05469, 
+
+Process: cef_server.exe (PID: 9752)
+CPU History: 0, 
+Memory History (MB): 1.36328, 
+
+Process: wsl.exe (PID: 14580)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: conhost.exe (PID: 8676)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: wsl.exe (PID: 3852)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: DllHost.exe (PID: 23548)
+CPU History: 0, 
+Memory History (MB): 0.695312, 
+
+Process: DllHost.exe (PID: 21936)
+CPU History: 0, 
+Memory History (MB): 0.125, 
+
+Process: wslrelay.exe (PID: 23648)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: wslhost.exe (PID: 24084)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: conhost.exe (PID: 24112)
+CPU History: 0, 
+Memory History (MB): 0.0664062, 
+
+Process: wslhost.exe (PID: 24240)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: conhost.exe (PID: 24280)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: msrdc.exe (PID: 24416)
+CPU History: 0.0390439, 
+Memory History (MB): 5.24219, 
+
+Process: wslhost.exe (PID: 22256)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: clangd.exe (PID: 24356)
+CPU History: 0, 
+Memory History (MB): 2.09375, 
+
+Process: conhost.exe (PID: 24348)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: conhost.exe (PID: 24452)
+CPU History: 0, 
+Memory History (MB): 0.0507812, 
+
+Process: msedge.exe (PID: 24068)
+CPU History: 0.0390439, 
+Memory History (MB): 30.4375, 
+
+Process: msedge.exe (PID: 24124)
+CPU History: 0, 
+Memory History (MB): 1.26172, 
+
+Process: msedge.exe (PID: 22848)
+CPU History: 0, 
+Memory History (MB): 5.35547, 
+
+Process: msedge.exe (PID: 24048)
+CPU History: 0, 
+Memory History (MB): 4.35547, 
+
+Process: msedge.exe (PID: 14820)
+CPU History: 0, 
+Memory History (MB): 1.8125, 
+
+Process: msedge.exe (PID: 22108)
+CPU History: 0, 
+Memory History (MB): 7.6875, 
+
+Process: msedge.exe (PID: 9136)
+CPU History: 0, 
+Memory History (MB): 7.43359, 
+
+Process: msedge.exe (PID: 19028)
+CPU History: 0, 
+Memory History (MB): 1.62891, 
+
+Process: msedge.exe (PID: 328)
+CPU History: 0, 
+Memory History (MB): 1.57422, 
+
+Process: cmd.exe (PID: 16480)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: conhost.exe (PID: 20516)
+CPU History: 0, 
+Memory History (MB): 0.164062, 
+
+Process: wenativehost.exe (PID: 23964)
+CPU History: 0, 
+Memory History (MB): 1.41797, 
+
+Process: msedge.exe (PID: 2064)
+CPU History: 0, 
+Memory History (MB): 1.66406, 
+
+Process: msedge.exe (PID: 22804)
+CPU History: 0, 
+Memory History (MB): 1.82812, 
+
+Process: cmd.exe (PID: 7400)
+CPU History: 0, 
+Memory History (MB): 0.144531, 
+
+Process: conhost.exe (PID: 23460)
+CPU History: 0, 
+Memory History (MB): 0.355469, 
+
+Process: msedge.exe (PID: 20684)
+CPU History: 0, 
+Memory History (MB): 3.40234, 
+
+Process: PAD.BrowserNativeMessageHost.exe (PID: 24628)
+CPU History: 0.0780877, 
+Memory History (MB): 21.0781, 
+
+Process: msedge.exe (PID: 22184)
+CPU History: 0, 
+Memory History (MB): 1.39062, 
+
+Process: msedge.exe (PID: 23040)
+CPU History: 0, 
+Memory History (MB): 1.74219, 
+
+Process: msedge.exe (PID: 23408)
+CPU History: 0, 
+Memory History (MB): 2.19531, 
+
+Process: msedge.exe (PID: 25088)
+CPU History: 0, 
+Memory History (MB): 1.69922, 
+
+Process: msedge.exe (PID: 4760)
+CPU History: 0, 
+Memory History (MB): 2.73828, 
+
+Process: msedge.exe (PID: 14572)
+CPU History: 0, 
+Memory History (MB): 2.5625, 
+
+Process: RuntimeBroker.exe (PID: 25356)
+CPU History: 0, 
+Memory History (MB): 1.84375, 
+
+Process: Code.exe (PID: 24624)
+CPU History: 0, 
+Memory History (MB): 69.8516, 
+
+Process: Code.exe (PID: 14500)
+CPU History: 0, 
+Memory History (MB): 2.82422, 
+
+Process: Code.exe (PID: 24284)
+CPU History: 0.156175, 
+Memory History (MB): 57.0938, 
+
+Process: Code.exe (PID: 23228)
+CPU History: 0, 
+Memory History (MB): 13.1133, 
+
+Process: Code.exe (PID: 19620)
+CPU History: 0, 
+Memory History (MB): 42.4141, 
+
+Process: Code.exe (PID: 4192)
+CPU History: 0.468526, 
+Memory History (MB): 46.2734, 
+
+Process: Code.exe (PID: 25576)
+CPU History: 0.0390439, 
+Memory History (MB): 23.2344, 
+
+Process: Code.exe (PID: 8836)
+CPU History: 0, 
+Memory History (MB): 8.34766, 
+
+Process: Code.exe (PID: 2916)
+CPU History: 0.234263, 
+Memory History (MB): 203.758, 
+
+Process: cpptools.exe (PID: 3448)
+CPU History: 0, 
+Memory History (MB): 3.3125, 
+
+Process: conhost.exe (PID: 11032)
+CPU History: 0, 
+Memory History (MB): 0.871094, 
+
+Process: <unknown> (PID: 7588)
+CPU History: 0, 
+Memory History (MB): 0.0078125, 
+
+Process: CodeSetup-stable-488a1f239235055e34e673291fb8d8c810886f81.exe (PID: 20812)
+CPU History: 0, 
+Memory History (MB): 0.0234375, 
+
+Process: CodeSetup-stable-488a1f239235055e34e673291fb8d8c810886f81.tmp (PID: 11944)
+CPU History: 0, 
+Memory History (MB): 0.765625, 
+
+Process: cpptools-srv.exe (PID: 24488)
+CPU History: 0, 
+Memory History (MB): 0.167969, 
+
+Process: conhost.exe (PID: 24804)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: Code.exe (PID: 24988)
+CPU History: 0, 
+Memory History (MB): 11.2148, 
+
+Process: Code.exe (PID: 23524)
+CPU History: 0.546614, 
+Memory History (MB): 47.3867, 
+
+Process: cpptools.exe (PID: 9128)
+CPU History: 0, 
+Memory History (MB): 9.71094, 
+
+Process: conhost.exe (PID: 13648)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: <unknown> (PID: 19320)
+CPU History: 0, 
+Memory History (MB): 0.03125, 
+
+Process: Notepad.exe (PID: 8172)
+CPU History: 0, 
+Memory History (MB): 13.3984, 
+
+Process: cpptools-srv.exe (PID: 25500)
+CPU History: 0, 
+Memory History (MB): 53.7227, 
+
+Process: conhost.exe (PID: 23812)
+CPU History: 0, 
+Memory History (MB): 0.695312, 
+
+Process: Code.exe (PID: 26052)
+CPU History: 0, 
+Memory History (MB): 28.6406, 
+
+Process: Code.exe (PID: 26244)
+CPU History: 0, 
+Memory History (MB): 7.82031, 
+
+Process: conhost.exe (PID: 26568)
+CPU History: 0, 
+Memory History (MB): 2.19531, 
+
+Process: powershell.exe (PID: 17792)
+CPU History: 0, 
+Memory History (MB): 27.2578, 
+
+Process: chrome.exe (PID: 25936)
+CPU History: 0, 
+Memory History (MB): 8.24609, 
+
+Process: brave.exe (PID: 7524)
+CPU History: 0, 
+Memory History (MB): 9.42969, 
+
+Process: brave.exe (PID: 23976)
+CPU History: 0, 
+Memory History (MB): 4.80469, 
+
+Process: brave.exe (PID: 22016)
+CPU History: 0.0390439, 
+Memory History (MB): 57.9414, 
+
+Process: smartscreen.exe (PID: 22832)
+CPU History: 0, 
+Memory History (MB): 12.5508, 
+
+Process: sysl.exe (PID: 23780)
+CPU History: 0.780877, 
+Memory History (MB): 21.2539, 
+
+Process: conhost.exe (PID: 15152)
+CPU History: 0, 
+Memory History (MB): 9.78125, 
+
+Process: OpenConsole.exe (PID: 6076)
+CPU History: 0, 
+Memory History (MB): 16.9883, 
+
+Process: WindowsTerminal.exe (PID: 25640)
+CPU History: 0.117132, 
+Memory History (MB): 98.3867, 
+
+------------------------
+Timestamp: Sun Aug  3 10:12:33 2025
+
+Process: sihost.exe (PID: 8636)
+CPU History: 0, 
+Memory History (MB): 9.96484, 
+
+Process: svchost.exe (PID: 9272)
+CPU History: 0, 
+Memory History (MB): 0.484375, 
+
+Process: svchost.exe (PID: 9280)
+CPU History: 0, 
+Memory History (MB): 1.27734, 
+
+Process: svchost.exe (PID: 9292)
+CPU History: 0, 
+Memory History (MB): 1.36328, 
+
+Process: svchost.exe (PID: 9432)
+CPU History: 0, 
+Memory History (MB): 0.472656, 
+
+Process: svchost.exe (PID: 9548)
+CPU History: 0, 
+Memory History (MB): 5.23828, 
+
+Process: taskhostw.exe (PID: 9768)
+CPU History: 0, 
+Memory History (MB): 6.24219, 
+
+Process: Explorer.EXE (PID: 10520)
+CPU History: 0.217013, 
+Memory History (MB): 135.938, 
+
+Process: CrossDeviceResume.exe (PID: 10940)
+CPU History: 0, 
+Memory History (MB): 1.58984, 
+
+Process: FnHotkeyUtility.exe (PID: 11148)
+CPU History: 0, 
+Memory History (MB): 3.11719, 
+
+Process: svchost.exe (PID: 10032)
+CPU History: 0, 
+Memory History (MB): 7.25391, 
+
+Process: SearchHost.exe (PID: 11728)
+CPU History: 0, 
+Memory History (MB): 17.0195, 
+
+Process: StartMenuExperienceHost.exe (PID: 11752)
+CPU History: 0, 
+Memory History (MB): 10.6641, 
+
+Process: unsecapp.exe (PID: 12032)
+CPU History: 0, 
+Memory History (MB): 0.945312, 
+
+Process: Widgets.exe (PID: 12136)
+CPU History: 0, 
+Memory History (MB): 2.20312, 
+
+Process: RuntimeBroker.exe (PID: 12188)
+CPU History: 0, 
+Memory History (MB): 7.21484, 
+
+Process: svchost.exe (PID: 12200)
+CPU History: 0, 
+Memory History (MB): 1.27344, 
+
+Process: RuntimeBroker.exe (PID: 11384)
+CPU History: 0, 
+Memory History (MB): 4.26953, 
+
+Process: msedgewebview2.exe (PID: 12656)
+CPU History: 0, 
+Memory History (MB): 14.2695, 
+
+Process: msedgewebview2.exe (PID: 12828)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: WhatsApp.exe (PID: 13008)
+CPU History: 0, 
+Memory History (MB): 155.934, 
+
+Process: msedgewebview2.exe (PID: 12544)
+CPU History: 0, 
+Memory History (MB): 6.36719, 
+
+Process: msedgewebview2.exe (PID: 9640)
+CPU History: 0, 
+Memory History (MB): 3.64453, 
+
+Process: msedgewebview2.exe (PID: 13268)
+CPU History: 0, 
+Memory History (MB): 1.68359, 
+
+Process: msedgewebview2.exe (PID: 13360)
+CPU History: 0, 
+Memory History (MB): 4.11328, 
+
+Process: RuntimeBroker.exe (PID: 13888)
+CPU History: 0, 
+Memory History (MB): 6.66406, 
+
+Process: svchost.exe (PID: 12612)
+CPU History: 0, 
+Memory History (MB): 4.58203, 
+
+Process: Radeonsoftware.exe (PID: 14276)
+CPU History: 0, 
+Memory History (MB): 12.332, 
+
+Process: svchost.exe (PID: 13592)
+CPU History: 0, 
+Memory History (MB): 1.24219, 
+
+Process: DllHost.exe (PID: 3864)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: reflectui.exe (PID: 7284)
+CPU History: 0, 
+Memory History (MB): 1.53125, 
+
+Process: reflectmonitor.exe (PID: 7308)
+CPU History: 0, 
+Memory History (MB): 2.73047, 
+
+Process: cncmd.exe (PID: 14508)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: cmd.exe (PID: 14764)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: conhost.exe (PID: 7116)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: ShellExperienceHost.exe (PID: 11536)
+CPU History: 0, 
+Memory History (MB): 0.15625, 
+
+Process: RuntimeBroker.exe (PID: 11172)
+CPU History: 0, 
+Memory History (MB): 2.07812, 
+
+Process: SecurityHealthSystray.exe (PID: 15640)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: RtkAudUService64.exe (PID: 11220)
+CPU History: 0, 
+Memory History (MB): 1.92578, 
+
+Process: SystemSettings.exe (PID: 2672)
+CPU History: 0, 
+Memory History (MB): 15.3906, 
+
+Process: ApplicationFrameHost.exe (PID: 4676)
+CPU History: 0, 
+Memory History (MB): 2.25, 
+
+Process: EpicGamesLauncher.exe (PID: 7796)
+CPU History: 0, 
+Memory History (MB): 9.85547, 
+
+Process: fdm.exe (PID: 10952)
+CPU History: 0, 
+Memory History (MB): 14.7227, 
+
+Process: EpicWebHelper.exe (PID: 9620)
+CPU History: 0, 
+Memory History (MB): 2.91016, 
+
+Process: EpicWebHelper.exe (PID: 16380)
+CPU History: 0, 
+Memory History (MB): 1.25781, 
+
+Process: RiotClientServices.exe (PID: 14880)
+CPU History: 0, 
+Memory History (MB): 1.44922, 
+
+Process: svchost.exe (PID: 10360)
+CPU History: 0, 
+Memory History (MB): 0.882812, 
+
+Process: RiotClientCrashHandler.exe (PID: 7872)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: jetbrains-toolbox.exe (PID: 1700)
+CPU History: 0, 
+Memory History (MB): 29.8828, 
+
+Process: WidgetService.exe (PID: 14420)
+CPU History: 0, 
+Memory History (MB): 1.1875, 
+
+Process: msedgewebview2.exe (PID: 13596)
+CPU History: 0, 
+Memory History (MB): 4.22656, 
+
+Process: msedgewebview2.exe (PID: 1592)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: Spotify.exe (PID: 5092)
+CPU History: 0, 
+Memory History (MB): 44.2109, 
+
+Process: msedgewebview2.exe (PID: 6932)
+CPU History: 0, 
+Memory History (MB): 2.11328, 
+
+Process: msedgewebview2.exe (PID: 6008)
+CPU History: 0, 
+Memory History (MB): 0.5, 
+
+Process: msedgewebview2.exe (PID: 9708)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: msedgewebview2.exe (PID: 8200)
+CPU History: 0, 
+Memory History (MB): 0.546875, 
+
+Process: Spotify.exe (PID: 7756)
+CPU History: 0, 
+Memory History (MB): 0.0898438, 
+
+Process: Spotify.exe (PID: 6168)
+CPU History: 0.217013, 
+Memory History (MB): 8.08594, 
+
+Process: Spotify.exe (PID: 14684)
+CPU History: 0, 
+Memory History (MB): 16.9922, 
+
+Process: Spotify.exe (PID: 9096)
+CPU History: 0, 
+Memory History (MB): 2.97656, 
+
+Process: Spotify.exe (PID: 16584)
+CPU History: 1.30208, 
+Memory History (MB): 163.992, 
+
+Process: brave.exe (PID: 8156)
+CPU History: 0, 
+Memory History (MB): 86.9727, 
+
+Process: brave.exe (PID: 16768)
+CPU History: 0, 
+Memory History (MB): 0.417969, 
+
+Process: brave.exe (PID: 12396)
+CPU History: 0, 
+Memory History (MB): 48.1484, 
+
+Process: brave.exe (PID: 12628)
+CPU History: 0, 
+Memory History (MB): 17.8359, 
+
+Process: brave.exe (PID: 12104)
+CPU History: 0, 
+Memory History (MB): 3.57031, 
+
+Process: brave.exe (PID: 12600)
+CPU History: 0, 
+Memory History (MB): 5.26562, 
+
+Process: brave.exe (PID: 12592)
+CPU History: 0, 
+Memory History (MB): 12.5703, 
+
+Process: cmd.exe (PID: 17140)
+CPU History: 0, 
+Memory History (MB): 0.0273438, 
+
+Process: conhost.exe (PID: 12432)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: wenativehost.exe (PID: 5284)
+CPU History: 0, 
+Memory History (MB): 1.71094, 
+
+Process: Spotify.exe (PID: 10976)
+CPU History: 0, 
+Memory History (MB): 3.375, 
+
+Process: slack.exe (PID: 18020)
+CPU History: 0, 
+Memory History (MB): 20.8867, 
+
+Process: chrome.exe (PID: 18100)
+CPU History: 0, 
+Memory History (MB): 26.6562, 
+
+Process: chrome.exe (PID: 18132)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: chrome.exe (PID: 18312)
+CPU History: 0, 
+Memory History (MB): 3.82812, 
+
+Process: chrome.exe (PID: 18320)
+CPU History: 0, 
+Memory History (MB): 10.2578, 
+
+Process: chrome.exe (PID: 8284)
+CPU History: 0, 
+Memory History (MB): 2.54297, 
+
+Process: chrome.exe (PID: 17572)
+CPU History: 0, 
+Memory History (MB): 4.35938, 
+
+Process: slack.exe (PID: 17620)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: chrome.exe (PID: 17536)
+CPU History: 0, 
+Memory History (MB): 1.97656, 
+
+Process: chrome.exe (PID: 17960)
+CPU History: 0, 
+Memory History (MB): 1.76953, 
+
+Process: slack.exe (PID: 18112)
+CPU History: 0, 
+Memory History (MB): 3.51953, 
+
+Process: slack.exe (PID: 14080)
+CPU History: 0, 
+Memory History (MB): 5.64062, 
+
+Process: cmd.exe (PID: 18508)
+CPU History: 0, 
+Memory History (MB): 0.0273438, 
+
+Process: conhost.exe (PID: 18584)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: wenativehost.exe (PID: 18668)
+CPU History: 0, 
+Memory History (MB): 0.433594, 
+
+Process: slack.exe (PID: 18740)
+CPU History: 0, 
+Memory History (MB): 45.8398, 
+
+Process: slack.exe (PID: 18884)
+CPU History: 0, 
+Memory History (MB): 1.49219, 
+
+Process: slack.exe (PID: 12000)
+CPU History: 0, 
+Memory History (MB): 1.86719, 
+
+Process: XboxPcTray.exe (PID: 19208)
+CPU History: 0, 
+Memory History (MB): 3.92969, 
+
+Process: XboxPcAppFT.exe (PID: 17208)
+CPU History: 0, 
+Memory History (MB): 9.14453, 
+
+Process: PAD.Console.Host.exe (PID: 1848)
+CPU History: 0, 
+Memory History (MB): 19.9375, 
+
+Process: PAD.AutomationServer.exe (PID: 18044)
+CPU History: 0.434025, 
+Memory History (MB): 16.4297, 
+
+Process: CrossDeviceService.exe (PID: 17600)
+CPU History: 0, 
+Memory History (MB): 3.74609, 
+
+Process: RuntimeBroker.exe (PID: 14724)
+CPU History: 0, 
+Memory History (MB): 1.44531, 
+
+Process: PAD.BridgeToUIAutomation2.exe (PID: 16920)
+CPU History: 0, 
+Memory History (MB): 5.84375, 
+
+Process: conhost.exe (PID: 6216)
+CPU History: 0, 
+Memory History (MB): 0.191406, 
+
+Process: RuntimeBroker.exe (PID: 6036)
+CPU History: 0, 
+Memory History (MB): 1.47266, 
+
+Process: ChatGPT.exe (PID: 11496)
+CPU History: 0, 
+Memory History (MB): 22.3164, 
+
+Process: ChatGPT.exe (PID: 18496)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: ChatGPT.exe (PID: 2676)
+CPU History: 0, 
+Memory History (MB): 6.23438, 
+
+Process: ChatGPT.exe (PID: 19172)
+CPU History: 0, 
+Memory History (MB): 6.14844, 
+
+Process: HuionTablet.exe (PID: 19820)
+CPU History: 0, 
+Memory History (MB): 3.12891, 
+
+Process: DS4Windows.exe (PID: 19856)
+CPU History: 0, 
+Memory History (MB): 8.41016, 
+
+Process: HuionTabletCore.exe (PID: 20004)
+CPU History: 0, 
+Memory History (MB): 28.8711, 
+
+Process: ChatGPT.exe (PID: 20156)
+CPU History: 0, 
+Memory History (MB): 15.5391, 
+
+Process: HuionServer.exe (PID: 20304)
+CPU History: 0, 
+Memory History (MB): 2.04297, 
+
+Process: WD Discovery.exe (PID: 20724)
+CPU History: 0, 
+Memory History (MB): 8.04297, 
+
+Process: WD Discovery.exe (PID: 21056)
+CPU History: 0, 
+Memory History (MB): 1.87109, 
+
+Process: WD Discovery.exe (PID: 20588)
+CPU History: 0, 
+Memory History (MB): 0.0234375, 
+
+Process: WDDiscoveryMonitor.exe (PID: 12040)
+CPU History: 0, 
+Memory History (MB): 0.75, 
+
+Process: WD Discovery.exe (PID: 21064)
+CPU History: 0, 
+Memory History (MB): 1.29688, 
+
+Process: WD Discovery.exe (PID: 19900)
+CPU History: 0, 
+Memory History (MB): 1.27734, 
+
+Process: Everything.exe (PID: 2640)
+CPU History: 0, 
+Memory History (MB): 29.4141, 
+
+Process: LenovoVantage-(GenericMessagingAddin).exe (PID: 19652)
+CPU History: 0, 
+Memory History (MB): 0.996094, 
+
+Process: AMDRSSrcExt.exe (PID: 17708)
+CPU History: 0, 
+Memory History (MB): 2.57031, 
+
+Process: backgroundTaskHost.exe (PID: 9100)
+CPU History: 0, 
+Memory History (MB): 2.11719, 
+
+Process: RuntimeBroker.exe (PID: 15400)
+CPU History: 0, 
+Memory History (MB): 0.714844, 
+
+Process: ShellHost.exe (PID: 1872)
+CPU History: 0, 
+Memory History (MB): 4.82031, 
+
+Process: backgroundTaskHost.exe (PID: 9328)
+CPU History: 0, 
+Memory History (MB): 4.32812, 
+
+Process: RuntimeBroker.exe (PID: 18148)
+CPU History: 0, 
+Memory History (MB): 0.507812, 
+
+Process: explorer.exe (PID: 4000)
+CPU History: 0, 
+Memory History (MB): 6.80469, 
+
+Process: brave.exe (PID: 12008)
+CPU History: 0, 
+Memory History (MB): 9.03125, 
+
+Process: IDMan.exe (PID: 1892)
+CPU History: 0, 
+Memory History (MB): 1.02734, 
+
+Process: brave.exe (PID: 14488)
+CPU History: 0, 
+Memory History (MB): 2.08984, 
+
+Process: brave.exe (PID: 19720)
+CPU History: 0, 
+Memory History (MB): 2.07422, 
+
+Process: brave.exe (PID: 17752)
+CPU History: 0, 
+Memory History (MB): 293.109, 
+
+Process: clion64.exe (PID: 11048)
+CPU History: 1.95311, 
+Memory History (MB): 289.207, 
+
+Process: Rider.Backend.exe (PID: 22920)
+CPU History: 0, 
+Memory History (MB): 31.4883, 
+
+Process: conhost.exe (PID: 5100)
+CPU History: 0, 
+Memory History (MB): 0.1875, 
+
+Process: fsnotifier.exe (PID: 22768)
+CPU History: 0, 
+Memory History (MB): 0.253906, 
+
+Process: conhost.exe (PID: 19360)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: cef_server.exe (PID: 20860)
+CPU History: 0, 
+Memory History (MB): 4.38672, 
+
+Process: conhost.exe (PID: 17184)
+CPU History: 0, 
+Memory History (MB): 0.0664062, 
+
+Process: cef_server.exe (PID: 15244)
+CPU History: 0, 
+Memory History (MB): 4.03516, 
+
+Process: cef_server.exe (PID: 15344)
+CPU History: 0, 
+Memory History (MB): 1.35156, 
+
+Process: cef_server.exe (PID: 7060)
+CPU History: 0, 
+Memory History (MB): 2.05469, 
+
+Process: cef_server.exe (PID: 9752)
+CPU History: 0, 
+Memory History (MB): 1.36328, 
+
+Process: wsl.exe (PID: 14580)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: conhost.exe (PID: 8676)
+CPU History: 0, 
+Memory History (MB): 0.046875, 
+
+Process: wsl.exe (PID: 3852)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: DllHost.exe (PID: 23548)
+CPU History: 0, 
+Memory History (MB): 0.695312, 
+
+Process: DllHost.exe (PID: 21936)
+CPU History: 0, 
+Memory History (MB): 0.125, 
+
+Process: wslrelay.exe (PID: 23648)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: wslhost.exe (PID: 24084)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: conhost.exe (PID: 24112)
+CPU History: 0, 
+Memory History (MB): 0.0664062, 
+
+Process: wslhost.exe (PID: 24240)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: conhost.exe (PID: 24280)
+CPU History: 0, 
+Memory History (MB): 0.0585938, 
+
+Process: msrdc.exe (PID: 24416)
+CPU History: 0.651038, 
+Memory History (MB): 5.24219, 
+
+Process: wslhost.exe (PID: 22256)
+CPU History: 0, 
+Memory History (MB): 0.0546875, 
+
+Process: clangd.exe (PID: 24356)
+CPU History: 0, 
+Memory History (MB): 2.09375, 
+
+Process: conhost.exe (PID: 24348)
+CPU History: 0, 
+Memory History (MB): 0.0625, 
+
+Process: conhost.exe (PID: 24452)
+CPU History: 0, 
+Memory History (MB): 0.0507812, 
+
+Process: msedge.exe (PID: 24068)
+CPU History: 0, 
+Memory History (MB): 30.4375, 
+
+Process: msedge.exe (PID: 24124)
+CPU History: 0, 
+Memory History (MB): 1.26172, 
+
+Process: msedge.exe (PID: 22848)
+CPU History: 0, 
+Memory History (MB): 5.35547, 
+
+Process: msedge.exe (PID: 24048)
+CPU History: 0, 
+Memory History (MB): 4.35547, 
+
+Process: msedge.exe (PID: 14820)
+CPU History: 0, 
+Memory History (MB): 1.8125, 
+
+Process: msedge.exe (PID: 22108)
+CPU History: 0, 
+Memory History (MB): 7.6875, 
+
+Process: msedge.exe (PID: 9136)
+CPU History: 0, 
+Memory History (MB): 7.4375, 
+
+Process: msedge.exe (PID: 19028)
+CPU History: 0, 
+Memory History (MB): 1.62891, 
+
+Process: msedge.exe (PID: 328)
+CPU History: 0, 
+Memory History (MB): 1.57422, 
+
+Process: cmd.exe (PID: 16480)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: conhost.exe (PID: 20516)
+CPU History: 0, 
+Memory History (MB): 0.164062, 
+
+Process: wenativehost.exe (PID: 23964)
+CPU History: 0, 
+Memory History (MB): 1.41797, 
+
+Process: msedge.exe (PID: 2064)
+CPU History: 0, 
+Memory History (MB): 1.66406, 
+
+Process: msedge.exe (PID: 22804)
+CPU History: 0, 
+Memory History (MB): 1.82812, 
+
+Process: cmd.exe (PID: 7400)
+CPU History: 0, 
+Memory History (MB): 0.144531, 
+
+Process: conhost.exe (PID: 23460)
+CPU History: 0, 
+Memory History (MB): 0.355469, 
+
+Process: msedge.exe (PID: 20684)
+CPU History: 0, 
+Memory History (MB): 3.40234, 
+
+Process: PAD.BrowserNativeMessageHost.exe (PID: 24628)
+CPU History: 0, 
+Memory History (MB): 21.0781, 
+
+Process: msedge.exe (PID: 22184)
+CPU History: 0, 
+Memory History (MB): 1.39062, 
+
+Process: msedge.exe (PID: 23040)
+CPU History: 0, 
+Memory History (MB): 1.74219, 
+
+Process: msedge.exe (PID: 23408)
+CPU History: 0, 
+Memory History (MB): 2.19531, 
+
+Process: msedge.exe (PID: 25088)
+CPU History: 0, 
+Memory History (MB): 1.69922, 
+
+Process: msedge.exe (PID: 4760)
+CPU History: 0, 
+Memory History (MB): 2.73828, 
+
+Process: msedge.exe (PID: 14572)
+CPU History: 0, 
+Memory History (MB): 2.5625, 
+
+Process: RuntimeBroker.exe (PID: 25356)
+CPU History: 0, 
+Memory History (MB): 1.84375, 
+
+Process: Code.exe (PID: 24624)
+CPU History: 0, 
+Memory History (MB): 69.8594, 
+
+Process: Code.exe (PID: 14500)
+CPU History: 0, 
+Memory History (MB): 2.82422, 
+
+Process: Code.exe (PID: 24284)
+CPU History: 0, 
+Memory History (MB): 56.9648, 
+
+Process: Code.exe (PID: 23228)
+CPU History: 0, 
+Memory History (MB): 13.043, 
+
+Process: Code.exe (PID: 19620)
+CPU History: 0, 
+Memory History (MB): 42.4531, 
+
+Process: Code.exe (PID: 4192)
+CPU History: 0.86805, 
+Memory History (MB): 46.3477, 
+
+Process: Code.exe (PID: 25576)
+CPU History: 0, 
+Memory History (MB): 23.2344, 
+
+Process: Code.exe (PID: 8836)
+CPU History: 0, 
+Memory History (MB): 8.35156, 
+
+Process: Code.exe (PID: 2916)
+CPU History: 0, 
+Memory History (MB): 203.812, 
+
+Process: cpptools.exe (PID: 3448)
+CPU History: 0, 
+Memory History (MB): 3.31641, 
+
+Process: conhost.exe (PID: 11032)
+CPU History: 0, 
+Memory History (MB): 0.871094, 
+
+Process: <unknown> (PID: 7588)
+CPU History: 0, 
+Memory History (MB): 0.0078125, 
+
+Process: CodeSetup-stable-488a1f239235055e34e673291fb8d8c810886f81.exe (PID: 20812)
+CPU History: 0, 
+Memory History (MB): 0.0234375, 
+
+Process: CodeSetup-stable-488a1f239235055e34e673291fb8d8c810886f81.tmp (PID: 11944)
+CPU History: 0, 
+Memory History (MB): 0.765625, 
+
+Process: cpptools-srv.exe (PID: 24488)
+CPU History: 0, 
+Memory History (MB): 0.167969, 
+
+Process: conhost.exe (PID: 24804)
+CPU History: 0, 
+Memory History (MB): 0.0429688, 
+
+Process: Code.exe (PID: 24988)
+CPU History: 0, 
+Memory History (MB): 11.2578, 
+
+Process: Code.exe (PID: 23524)
+CPU History: 0.434025, 
+Memory History (MB): 47.2617, 
+
+Process: cpptools.exe (PID: 9128)
+CPU History: 0, 
+Memory History (MB): 9.75781, 
+
+Process: conhost.exe (PID: 13648)
+CPU History: 0, 
+Memory History (MB): 0.0703125, 
+
+Process: <unknown> (PID: 19320)
+CPU History: 0, 
+Memory History (MB): 0.03125, 
+
+Process: Notepad.exe (PID: 8172)
+CPU History: 0, 
+Memory History (MB): 13.3984, 
+
+Process: cpptools-srv.exe (PID: 25500)
+CPU History: 0, 
+Memory History (MB): 53.7227, 
+
+Process: conhost.exe (PID: 23812)
+CPU History: 0, 
+Memory History (MB): 0.695312, 
+
+Process: Code.exe (PID: 26052)
+CPU History: 0, 
+Memory History (MB): 28.668, 
+
+Process: Code.exe (PID: 26244)
+CPU History: 0, 
+Memory History (MB): 7.82031, 
+
+Process: conhost.exe (PID: 26568)
+CPU History: 0, 
+Memory History (MB): 2.19531, 
+
+Process: powershell.exe (PID: 17792)
+CPU History: 0, 
+Memory History (MB): 27.2578, 
+
+Process: chrome.exe (PID: 25936)
+CPU History: 0, 
+Memory History (MB): 8.24609, 
+
+Process: brave.exe (PID: 7524)
+CPU History: 0, 
+Memory History (MB): 9.42969, 
+
+Process: brave.exe (PID: 23976)
+CPU History: 0, 
+Memory History (MB): 4.80469, 
+
+Process: brave.exe (PID: 22016)
+CPU History: 0, 
+Memory History (MB): 57.9414, 
+
+Process: smartscreen.exe (PID: 22832)
+CPU History: 0, 
+Memory History (MB): 12.5508, 
+
+Process: sysl.exe (PID: 23780)
+CPU History: 2.17013, 
+Memory History (MB): 21.4023, 
+
+Process: conhost.exe (PID: 15152)
+CPU History: 0, 
+Memory History (MB): 9.78125, 
+
+Process: OpenConsole.exe (PID: 6076)
+CPU History: 0, 
+Memory History (MB): 16.9883, 
+
+Process: WindowsTerminal.exe (PID: 25640)
+CPU History: 0, 
+Memory History (MB): 98.3867, 
+
+------------------------
